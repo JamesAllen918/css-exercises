@@ -1,0 +1,15 @@
+#id-text {
+background-color: white; color: #0000ff; font-size: 36px;
+}
+
+.class-text {
+    background-color: #f08080; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cool-class {
+    font-size: 24px; 
+}
+
+#cool-id {
+    background-color: lime; font-size: 24px; font-weight: bold;
+}

@@ -1,9 +1,11 @@
 #id-text {
-background-color: white; color: #0000ff; font-size: 36px;
+ color: #0000ff; 
+ font-size: 36px;
 }
 
 .class-text {
-    background-color: #f08080; font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f08080; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .cool {
